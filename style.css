@@ -63,3 +63,11 @@ li {
     background-color: var(--navbar-shadow-color);
     transition-duration: 0.5s;
 }
+
+.navbar-logo {
+    background-color: var(--navbar-color);
+    height: 3rem;
+    width: auto;
+    
+    padding-right: 7rem;
+}
